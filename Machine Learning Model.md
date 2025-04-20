@@ -64,7 +64,7 @@ Stay tuned 🚀
 
  #Dev Goel
   🎓 CSE Student
-  📸 404Dev.NotFound
+  📸 [@404Dev.NotFound](https://www.instagram.com/404dev.notfound/?next=%2Fscriptedbydev%2F)
   💻 GitHub
   📧 scriptedByDev@gmail.com
 
